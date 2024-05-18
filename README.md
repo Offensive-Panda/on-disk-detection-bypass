@@ -4,3 +4,6 @@ Direct syscalls Injection to bypass AV/EDR. The main purpose of this repository 
 # My Detailed Blog 
 https://systemweakness.com/on-disk-detection-bypass-avs-edr-s-using-syscalls-with-legacy-instruction-series-of-instructions-5c1f31d1af7d.
 
+# Only for educational purposes.
+
+
